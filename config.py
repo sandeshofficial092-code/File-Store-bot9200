@@ -18,19 +18,19 @@ from logging.handlers import RotatingFileHandler
 #dvittalbotz on Tg
 #--------------------------------------------
 #Bot token @Botfather
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "8154426339:")
-APP_ID = int(os.environ.get("APP_ID", "")) #Your API ID from my.telegram.org
-API_HASH = os.environ.get("API_HASH", "") #Your API Hash from my.telegram.org
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "7747117789:AAFjg19t5o9GHdTjRuONQ2DgUUI6hQrGrAI")
+APP_ID = int(os.environ.get("APP_ID", "29388536")) #Your API ID from my.telegram.org
+API_HASH = os.environ.get("API_HASH", "1795cfeb72fdd9741bbaab5e02c57668") #Your API Hash from my.telegram.org
 #--------------------------------------------
 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "")) #Your db channel Id
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003763476832")) #Your db channel Id
 OWNER = os.environ.get("OWNER", "dvittal_bot") # Owner username without @
 OWNER_ID = int(os.environ.get("OWNER_ID", "")) # Owner id
 #--------------------------------------------
 PORT = os.environ.get("PORT", "8001")
 BASE_URL = os.environ.get("BASE_URL", "")  # e.g. https://your-domain.com
 #--------------------------------------------
-DB_URI = os.environ.get("DATABASE_URL", "")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://Kfcinemas:ujwal@cluster0.olxb2bz.mongodb.net/renamebot?retryWrites=true&w=majority")
 DB_NAME = os.environ.get("DATABASE_NAME", "Cluooo")
 #--------------------------------------------
 FSUB_LINK_EXPIRY = int(os.getenv("FSUB_LINK_EXPIRY", "10"))  # 0 means no expiry
