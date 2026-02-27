@@ -100,12 +100,7 @@
 /hash - open masking algorithm control panel
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3>「 ᴏᴛʜᴇʀ ʙʀᴀɴᴄʜᴇs 」
-</h3>
-
-- <b>[ᴛᴏᴋᴇɴ](https://github.com/Codeflix-Bots/FileStore/tree/token)  ➻  [ᴡɪᴛʜᴏᴜᴛ sʜᴏʀᴛɴᴇʀ](https://github.com/Codeflix-Bots/FileStore/tree/Master) </b>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -153,8 +148,6 @@ python3 bot.py
 </p>
 </details>
 
-<h3>「 ᴄʀᴇᴅɪᴛs 」
-</h3>
 
 ### 📞 OWNER CONTACT 
 
