@@ -1,4 +1,4 @@
-━━━━━━━━━━━━━━━━━━━━
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
 
 <h2 align="center">
     ──「DVɪᴛᴛAʟ ғɪʟᴇ sᴛᴏʀᴇ ᴘʀᴏ 」──
@@ -165,3 +165,9 @@ python3 bot.py
 ᴊᴜꜱᴛ ꜰᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ᴇᴅɪᴛ ᴀꜱ ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅꜱ.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+  <!-- Visitor Count Animation -->
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  
