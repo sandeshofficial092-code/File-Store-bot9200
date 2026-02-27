@@ -17,7 +17,7 @@ from helper_func import admin
 
 # ======================== CRYPTO ALGORITHMS ======================== #
 
-# Secret key for keyed algorithms (generated once, stored in memory)
+# Secret key for keyed algorithms (generated once, stored in memory))
 _SECRET_KEY = os.environ.get("HASH_SECRET_KEY", secrets.token_hex(32))
 
 def aes128_hash(data: str) -> str:
