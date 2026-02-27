@@ -2,7 +2,7 @@
 # Don't Remove Credit @DVITTALBOTZ
 # Subscribe Telegram Channel For Amazing Bot @DVITTALBOTZ
 # Ask Doubt on telegram @DVITTALBOTZ_Disscussion
-# Copyright (C) 2025 by Codeflix-Bots@Github, < https://github.com/Codeflix-Bots >.
+# Copyright (C) 2025 by DVITTALBOTZ @Github, < https://github.com/Codeflix-Bots >.
 #
 # This file is part of < https://github.com/Codeflix-Bots/FileStore > project,
 # and is released under the MIT License.
