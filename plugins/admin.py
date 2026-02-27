@@ -14,7 +14,7 @@ from database.database import *
 
 
 
-# Commands for adding admins by owner
+# Commands for adding admins by owner.
 @Bot.on_message(filters.command('add_admin') & filters.private & filters.user(OWNER_ID))
 async def add_admins(client: Client, message: Message):
     pro = await message.reply("<b><i>ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ..</i></b>", quote=True)
