@@ -156,13 +156,13 @@ python3 bot.py
 <h3>「 ᴄʀᴇᴅɪᴛs 」
 </h3>
 
-- <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://t.me/codeflix_bots)  ➻  [ᴜᴘᴅᴀᴛᴇs](https://t.me/codeflix_bots) </b>
-- <b>[ᴄᴀɴᴛᴀʀᴇʟʟᴀ ʙᴏᴛs](https://t.me/cantarellabots)  ➻  [ᴄʜᴀɴɴᴇʟ](https://t.me/cantarellabots) </b>
-- <b>[ᴀʙʜɪ](https://t.me/cantarella_wuwa)  ➻  [ᴅᴇᴠᴇʟᴏᴘᴇʀ](https://t.me/cantarella_wuwa) </b>
-- <b>[ʏᴀᴛᴏ](https://github.com/sewxiy)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://t.me/cosmic_freak) </b>
-- <b>[ʀᴏʜɪᴛ](https://github.com/rohit3607)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://t.me/FILE_SHARINGBOTS/17) </b>
- 
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/codeflix-bots) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ file store ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>
+### 📞 OWNER CONTACT 
+
+<p>
+  <a href="https://t.me/DVITTAL_bot">
+    <img src="https://img.icons8.com/color/96/telegram-app.png" width="60" height="60" alt="Telegram">
+  </a>
+  
 
 ## 📌  𝑵𝒐𝒕𝒆
 
