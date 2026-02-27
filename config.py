@@ -25,13 +25,13 @@ API_HASH = os.environ.get("API_HASH", "1795cfeb72fdd9741bbaab5e02c57668") #Your 
 
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003763476832")) #Your db channel Id
 OWNER = os.environ.get("OWNER", "dvittal_bot") # Owner username without @
-OWNER_ID = int(os.environ.get("OWNER_ID", "")) # Owner id
+OWNER_ID = int(os.environ.get("OWNER_ID", "5896902449")) # Owner id
 #--------------------------------------------
 PORT = os.environ.get("PORT", "8001")
 BASE_URL = os.environ.get("BASE_URL", "")  # e.g. https://your-domain.com
 #--------------------------------------------
 DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://Kfcinemas:ujwal@cluster0.olxb2bz.mongodb.net/renamebot?retryWrites=true&w=majority")
-DB_NAME = os.environ.get("DATABASE_NAME", "Cluooo")
+DB_NAME = os.environ.get("DATABASE_NAME", "dvittalbotz")
 #--------------------------------------------
 FSUB_LINK_EXPIRY = int(os.getenv("FSUB_LINK_EXPIRY", "10"))  # 0 means no expiry
 BAN_SUPPORT = os.environ.get("BAN_SUPPORT", "https://t.me/DVITTALBOTZ_discussion")
