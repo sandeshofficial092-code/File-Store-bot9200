@@ -3,7 +3,7 @@ from config import DB_URI, DB_NAME
 from pytz import timezone
 from datetime import datetime, timedelta
 
-# Create an async client with Motor
+# Create an async client with Motor (@dvittalbotz)
 dbclient = motor.motor_asyncio.AsyncIOMotorClient(DB_URI)
 database = dbclient[DB_NAME]
 collection = database['premium-users']
