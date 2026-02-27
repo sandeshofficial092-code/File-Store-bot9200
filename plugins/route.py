@@ -162,7 +162,7 @@ def get_client_ip(request) -> str:
     if forwarded:
         ips = [ip.strip() for ip in forwarded.split(",") if ip.strip()]
         if ips:
-            # Use the last IP in X-Forwarded-For to prevent spoofing
+            # Use the last IP in X-Forwarded-For to prevent spoofing.
             return ips[-1]
     real_ip = request.headers.get("X-Real-IP", "")
     if real_ip:
