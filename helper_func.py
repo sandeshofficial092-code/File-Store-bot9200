@@ -1,5 +1,5 @@
-#(©)CodeFlix_Bots
-#rohit_1888 on Tg #Dont remove this line
+#(©) DVITTALBOTZ 
+#DVITTALBOTZ on Tg #Dont remove this line
 
 import base64
 import re
@@ -15,10 +15,10 @@ from database.database import *
 
 
 
-# Don't Remove Credit @CodeFlix_Bots, @rohit_1888
-# Ask Doubt on telegram @CodeflixSupport
-#
-# Copyright (C) 2025 by Codeflix-Bots@Github, < https://github.com/Codeflix-Bots >.
+# Don't Remove Credit @DVITTALBOTZ
+# Subscribe Telegram Channel For Amazing Bot @DVITTALBOTZ
+# Ask Doubt on telegram @DVITTALBOTZ_Disscussion
+# Copyright (C) 2025 by DVITTALBOTZ@Github, < https://github.com/Codeflix-Bots >.
 #
 # This file is part of < https://github.com/Codeflix-Bots/FileStore > project,
 # and is released under the MIT License.
@@ -37,10 +37,10 @@ async def check_admin(filter, client, update):
         return False
 
 
-# Don't Remove Credit @CodeFlix_Bots, @rohit_1888
-# Ask Doubt on telegram @CodeflixSupport
-#
-# Copyright (C) 2025 by Codeflix-Bots@Github, < https://github.com/Codeflix-Bots >.
+# Don't Remove Credit @DVITTALBOTZ
+# Subscribe Telegram Channel For Amazing Bot @DVITTALBOTZ
+# Ask Doubt on telegram @DVITTALBOTZ_Disscussion
+# Copyright (C) 2025 by DVITTALBOTZ@Github, < https://github.com/Codeflix-Bots >.
 #
 # This file is part of < https://github.com/Codeflix-Bots/FileStore > project,
 # and is released under the MIT License.
@@ -74,7 +74,7 @@ async def is_subscribed(client, user_id):
 # Don't Remove Credit @CodeFlix_Bots, @rohit_1888
 # Ask Doubt on telegram @CodeflixSupport
 #
-# Copyright (C) 2025 by Codeflix-Bots@Github, < https://github.com/Codeflix-Bots >.
+# Copyright (C) 2025 by DVITTALBOTZ@Github, < https://github.com/Codeflix-Bots >.
 #
 # This file is part of < https://github.com/Codeflix-Bots/FileStore > project,
 # and is released under the MIT License.
@@ -107,10 +107,10 @@ async def is_sub(client, user_id, channel_id):
         print(f"[!] Error in is_sub(): {e}")
         return False
 
-# Don't Remove Credit @CodeFlix_Bots, @rohit_1888
-# Ask Doubt on telegram @CodeflixSupport
-#
-# Copyright (C) 2025 by Codeflix-Bots@Github, < https://github.com/Codeflix-Bots >.
+# Don't Remove Credit @DVITTALBOTZ
+# Subscribe Telegram Channel For Amazing Bot @DVITTALBOTZ
+# Ask Doubt on telegram @DVITTALBOTZ_Disscussion
+# Copyright (C) 2025 by DVITTALBOTZ@Github, < https://github.com/Codeflix-Bots >.
 #
 # This file is part of < https://github.com/Codeflix-Bots/FileStore > project,
 # and is released under the MIT License.
@@ -211,10 +211,10 @@ def get_exp_time(seconds):
             result += f'{int(period_value)} {period_name}'
     return result
 
-# Don't Remove Credit @CodeFlix_Bots, @rohit_1888
-# Ask Doubt on telegram @CodeflixSupport
-#
-# Copyright (C) 2025 by Codeflix-Bots@Github, < https://github.com/Codeflix-Bots >.
+# Don't Remove Credit @DVITTALBOTZ
+# Subscribe Telegram Channel For Amazing Bot @DVITTALBOTZ
+# Ask Doubt on telegram @DVITTALBOTZ_Disscussion
+# Copyright (C) 2025 by DVITTALBOTZ@Github, < https://github.com/Codeflix-Bots >.
 #
 # This file is part of < https://github.com/Codeflix-Bots/FileStore > project,
 # and is released under the MIT License.
@@ -263,12 +263,12 @@ async def create_masked_link(target_url: str) -> str:
 subscribed = filters.create(is_subscribed)
 admin = filters.create(check_admin)
 
-#rohit_1888 on Tg :
+#DVITTALBOTZ on Tg :
 
-# Don't Remove Credit @CodeFlix_Bots, @rohit_1888
-# Ask Doubt on telegram @CodeflixSupport
-#
-# Copyright (C) 2025 by Codeflix-Bots@Github, < https://github.com/Codeflix-Bots >.
+# Don't Remove Credit @DVITTALBOTZ
+# Subscribe Telegram Channel For Amazing Bot @DVITTALBOTZ
+# Ask Doubt on telegram @DVITTALBOTZ_Disscussion
+# Copyright (C) 2025 by DVITTALBots@Github, < https://github.com/Codeflix-Bots >.
 #
 # This file is part of < https://github.com/Codeflix-Bots/FileStore > project,
 # and is released under the MIT License.
