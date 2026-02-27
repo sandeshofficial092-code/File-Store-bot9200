@@ -17,7 +17,7 @@
 
 
 ### ✅ Join Telegram Bots Update 
-[![Telegram](https://img.shields.io/badge/Telegram-Join%20Now-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DVITTALBOTZ) | [![Telegram](https://img.shields.io/badge/Telegram-Join%20Now-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DVITTALBOTZ_DISISSION)
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Now-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DVITTALBOTZ) | [![Telegram](https://img.shields.io/badge/Telegram-Join%20Now-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DVITTALBOTZ_DISSCUSSION)
 
 <details><summary><b>📌 ғᴇᴀᴛᴜʀᴇs:</b></summary>
 
