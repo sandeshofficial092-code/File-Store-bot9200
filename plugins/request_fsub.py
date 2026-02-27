@@ -1,6 +1,6 @@
-# Don't Remove Credit @CodeFlix_Bots, @rohit_1888
-# Ask Doubt on telegram @CodeflixSupport
-#
+# Don't Remove Credit @DVITTALBOTZ
+# Subscribe Telegram Channel For Amazing Bot @DVITTALBOTZ
+# Ask Doubt on telegram @DVITTALBOTZ_Disscussion
 # Copyright (C) 2025 by Codeflix-Bots@Github, < https://github.com/Codeflix-Bots >.
 #
 # This file is part of < https://github.com/Codeflix-Bots/FileStore > project,
@@ -23,9 +23,9 @@ from config import *
 from helper_func import *
 from database.database import *
 
-# Don't Remove Credit @CodeFlix_Bots, @rohit_1888
-# Ask Doubt on telegram @CodeflixSupport
-#
+# Don't Remove Credit @DVITTALBOTZ
+# Subscribe Telegram Channel For Amazing Bot @DVITTALBOTZ
+# Ask Doubt on telegram @DVITTALBOTZ_Disscussion
 # Copyright (C) 2025 by Codeflix-Bots@Github, < https://github.com/Codeflix-Bots >.
 #
 # This file is part of < https://github.com/Codeflix-Bots/FileStore > project,
@@ -158,9 +158,9 @@ async def add_force_sub(client: Client, message: Message):
         
 
 
-# Don't Remove Credit @CodeFlix_Bots, @rohit_1888
-# Ask Doubt on telegram @CodeflixSupport
-#
+# Don't Remove Credit @DVITTALBOTZ
+# Subscribe Telegram Channel For Amazing Bot @DVITTALBOTZ
+# Ask Doubt on telegram @DVITTALBOTZ_Disscussion
 # Copyright (C) 2025 by Codeflix-Bots@Github, < https://github.com/Codeflix-Bots >.
 #
 # This file is part of < https://github.com/Codeflix-Bots/FileStore > project,
@@ -218,9 +218,9 @@ async def list_force_sub_channels(client: Client, message: Message):
 
     await temp.edit(result, disable_web_page_preview=True, reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Close ✖️", callback_data="close")]]))
 
-# Don't Remove Credit @CodeFlix_Bots, @rohit_1888
-# Ask Doubt on telegram @CodeflixSupport
-#
+# Don't Remove Credit @DVITTALBOTZ
+# Subscribe Telegram Channel For Amazing Bot @DVITTALBOTZ
+# Ask Doubt on telegram @DVITTALBOTZ_Disscussion
 # Copyright (C) 2025 by Codeflix-Bots@Github, < https://github.com/Codeflix-Bots >.
 #
 # This file is part of < https://github.com/Codeflix-Bots/FileStore > project,
@@ -287,9 +287,9 @@ async def delete_requested_users(client, message: Message):
         quote=True
     )
 
-# Don't Remove Credit @CodeFlix_Bots, @rohit_1888
-# Ask Doubt on telegram @CodeflixSupport
-#
+# Don't Remove Credit @DVITTALBOTZ
+# Subscribe Telegram Channel For Amazing Bot @DVITTALBOTZ
+# Ask Doubt on telegram @DVITTALBOTZ_Disscussion
 # Copyright (C) 2025 by Codeflix-Bots@Github, < https://github.com/Codeflix-Bots >.
 #
 # This file is part of < https://github.com/Codeflix-Bots/FileStore > project,
